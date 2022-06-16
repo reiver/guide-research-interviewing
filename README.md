@@ -51,8 +51,29 @@ And it doesn't matter whether that **research interviewing** is for product-rese
 
 **You need to be able to discover _unknown-unknows_!**
 
+Here is a way you can go about discovering **unknown-unknows** —
+
+1. ask very open-ended questions, so that you can
+2. just get them to start talking.
+
+In **phase 1** you don't want to ask them any _direct_ questions yet — because you want them to get talking.
+You want them to talk about the **unknown-unknows** that you cannot ask a direct question about.
+
+Here are some example questions that can help you at this phase:
+
+* Tell me about “X”
+  * Tell me about _your experience as a YouTuber_.
+  * Tell me about _what it is like to work at a bank_.
+  * Tell me about _underwriting_.
+  * Tell me about _EFTs_.
+  * etc
+
+(What you replace “X” with will depend on who you are talking to, and what industry or market you are researching.)
 
 ## Phase 2: Known-Unknows
+
+
+ask specific questions
 
 ## Phase 3
 
