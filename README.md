@@ -12,7 +12,7 @@ There are 6 phases to inteviewing:
 
 * [phase 1: unknown-unknowns (just get them to talk)](#phase-1)
 * [phase 2: known-unknowns (ask specific questions)](#phase-2)
-* [phase 3: How could things go wrong?](#phase-3)
+* [phase 3: how could things go wrong?](#phase-3)
 * [phase 4: what do you think others would say or think?](#phase-4)
 * [phase 5: what question didn't I ask you, but should have?](#phase-5)
 * [phase 6: who else should I talk to?](#phase-6)
