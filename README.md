@@ -10,14 +10,18 @@ A guide on how to conduct interviews for research. These are the types of interv
 
 There are 6 phases to inteviewing:
 
-* phase 1: unknown-unknowns (just get them to talk)
-* phase 2: known-unknowns (ask specific questions)
-* phase 3: How could things go wrong?
-* phase 4: what do you think others would say or think?
-* phase 5: what question didn't I ask you, but should have?
-* phase 6: who else should I talk to?
+* [phase 1: unknown-unknowns (just get them to talk)](#phase-1)
+* [phase 2: known-unknowns (ask specific questions)](#phase-2)
+* [phase 3: How could things go wrong?](#phase-3)
+* [phase 4: what do you think others would say or think?](#phase-4)
+* [phase 5: what question didn't I ask you, but should have?](#phase-5)
+* [phase 6: who else should I talk to?](#phase-6)
 
-## Phase 1: Unknown-Unknowns
+## Phase 1
+
+Unknown-Unknowns.
+
+### Example of Known-Unknowns
 
 There are known-unknowns, and there are **unknown-unknowns**.
 
@@ -25,11 +29,12 @@ Here is an example of a known-unknown:
 > How old are you?
 
 You know I have an age.
-And it is **known** to you that you do _not_ know my age.
-But (very likely) you don't know how old I am ⁠— i.e., my age is an **unknown** to you.
+And it is **known** to you that my age is **unknown** to you.
 That is a **known-unknown** — you **know** that my age has some value, but to you it is **unknown** what my age actually is.
-But given this is an **known-unknown** you could directly ask me:
+But given this is an **known-unknown**, you could directly ask me:
 > How old are you?
+
+### Example of Unknown-Unknowns
 
 But there are also **unknown-unknows**.
 
@@ -49,19 +54,32 @@ You will experience this a lot when doing **research interviewing**.
 
 And it doesn't matter whether that **research interviewing** is for product-research, or ux-research, or business-analysis, or software-engineering.
 
+### Questions
+
 **You need to be able to discover _unknown-unknows_!**
 
 Here is a way you can go about discovering **unknown-unknows** —
 
 1. ask very open-ended questions, so that you can
-2. just get them to start talking.
+2. just get them to start talking;
+3. and let them talk;
+4. if they stop talking, ask them another open-ended question to get them talking again.
 
-In **phase 1** you don't want to ask them any _direct_ questions yet — because you want them to get talking.
-You want them to talk about the **unknown-unknows** that you cannot ask a direct question about.
+What is an **open-ended question** you might be asking. Good question.
 
-Here are some example questions that can help you at this phase:
+Here is an example of a question that is NOT an open-ended question:
+> How old are you?
 
-* Tell me about “X”
+They will reply with something like:
+> 35
+And likely _not_ say anything else.
+
+You want them to start talking.
+You want them to start talking about things you don't know you need to ask questions about.
+
+Here is an example of an open-ended question:
+
+* Tell me about “X”.
   * Tell me about _your experience as a YouTuber_.
   * Tell me about _what it is like to work at a bank_.
   * Tell me about _underwriting_.
@@ -70,7 +88,21 @@ Here are some example questions that can help you at this phase:
 
 (What you replace “X” with will depend on who you are talking to, and what industry or market you are researching.)
 
-## Phase 2: Known-Unknows
+Here is an example of another open-ended question?
+
+* What is “X” like?
+  * What is _being a YouTuber_ like?
+  * What is _working at a bank_ like?
+  * What is _underwriting_ like?
+  * etc
+
+(Again, what you replace “X” with will depend on who you are talking to, and what industry or market you are researching.)
+
+Questions like these — open-ended questions — are designed to get the person to talk, so that you can discover **unknown-unknowns**.
+
+## Phase 2
+
+Known-Unknows.
 
 
 ask specific questions
