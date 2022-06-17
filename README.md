@@ -14,7 +14,7 @@ Whether you take your notes on a paper, or on a laptop, or on a mobie phone — 
 
 ---
 
-There are 7 phases when I _inteview_ someone for _research_:
+There are 8 phases when I _inteview_ someone for _research_:
 
 * [phase 1: unknown-unknowns (just get them to talk)](#phase-1)
 * [phase 2: follow-ups](#phase-2)
