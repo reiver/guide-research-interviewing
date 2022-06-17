@@ -175,3 +175,18 @@ And then ask:
 > **Could you introduce me to them?**
 
 It is usually much easier to get someone to talk to you, if someone they know introduces you to them.
+
+
+Plus, you can find a lot of (relevant) people to interview really quick this way.
+For example, if you start with 1 person,
+and that person introduces you to 3 people,
+and each of those individuals introduced you to 3 more people,
+and each of those individuals introduced you to 3 more people —
+then that is:
+```
+1 + 1×3 + ((1×3)×3) + (((1×3)×3)×3) =
+1 + 3   + 9         + 27            =
+40
+```
+
+And even before you talk to all these people, you have probably learned a lot!
