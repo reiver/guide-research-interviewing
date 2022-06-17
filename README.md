@@ -6,6 +6,12 @@ by [Charles Iliya Krempeaux](http://changelog.ca/)
 
 A guide on how to conduct interviews for research. These are the types of interviews that would be done by product researchers, UX designers, business analysts, and software engineers.
 
+This guide will tell you _what_ **questions to ask** the interviewee, and _why_ you should ask those questions.
+
+But note, you need to **takes notes** while you are interviewing the interviewee.
+If you don't take notes, you are wasting your time.
+Whether you take your notes on a paper, or on a laptop, or on a mobie phone — it doesn't matter — just **take notes**!
+
 ---
 
 There are 6 phases to inteviewing:
