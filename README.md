@@ -64,16 +64,19 @@ Before reading that sentence, in a practical sense, you wouldn't have been able 
 
 After reading that sentence, you might have the question:
 > What is an “ushabti”?
+
 But before you read that sentence you wouldn't have known to ask that question.
 Before you read that sentence “ushabti” was an **unknown-unknown** to you.
 
 After reading that sentence, you might have the question:
 > What is an “ushabti box”?
+
 But before you read that sentence you wouldn't have known to ask that question.
 Before you read that sentence “ushabti” was an **unknown-unknown** to you.
 
 After reading that sentence, you might have the question:
 > Who is “Khabekhnet”?
+
 But before you read that sentence you wouldn't have known to ask that question.
 Before you read that sentence “ushabti” was an **unknown-unknown** to you.
 
