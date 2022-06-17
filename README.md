@@ -111,6 +111,25 @@ ask specific questions
 
 ## Phase 4
 
+Sometimes interviewees don't tell you everything, or aren't completely honest.
+
+Maybe answering a question honestly would embarrass them, or make them feel shame, or make them feel guilt.
+Maybe answering a question honestly would violate a local taboo.
+Etc.
+
+So don't answer honestly.
+
+But you need the truth!
+
+How do you get the truth in case like this —
+
+Here is a strategy for getting that type of information — ask this question —
+
+> **What do you think others would say?**
+
+> **What do you think others think?**
+
+
 ## Phase 5
 
 Once you are done all that, there is another question for you to ask them —
