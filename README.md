@@ -137,6 +137,19 @@ Questions like these — open-ended questions — are designed to get the person
 
 **What other open-ended question could you ask the interviewee?**
 
+### Summary
+
+Here is a summary of what you need to do and _not_ do in **phase 1**:
+
+* ask open-ended questions
+* do _not_ ask direct questions
+* if you think of any direct questions (during phase 1) write them down (and ask them in phase 2)
+* take notes
+* Take Notes!
+* TAKE NOTES!!!
+* you are wasting your time if you do not take notes, so — TAKE NOTES!!!!!
+
+
 ## Phase 2
 
 **Known-Unknows.**
