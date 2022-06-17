@@ -113,24 +113,46 @@ ask specific questions
 
 ## Phase 5
 
+Once you are done all that, there is another question for you to ask them —
+
+> **What question should I have asked you, but didn't?**
+
+You can only ask this question at the end of the interview.
+It won't work at the beginning.
+
+You've been talking to them for a while.
+They probably had some thoughts on things they might have thought would be useful for you to know, but the conversation just didn't go that way, and a good time never came up for them to mention it.
+
+You are giving them a chance to mention it by asking them this question.
+
+**Take _lots and lots_ of notes on what they say.**
+
+Also, you can ask this question more than once.
+
+For example, if you ask that once, and then give you an answer, you can then ask:
+
+> **What _other_ question should have I asked you, but didn't?**
+
+You can keep repeating that until they have no more questions.
+
 ## Phase 6
 
 At the very end of your interview, after you have asked _all_ those _questions_, and taken _lots and lots_ of _notes_, you need to ask another question —
 
-> Who else should I talk to?
+> **Who else should I talk to?**
 
-> Who else would you recommend?
+> **Who else would you recommend?**
 
-> Are there a few other people you would recommend I talk to?
+> **Are there a few other people you would recommend I talk to?**
 
 This person you just interviewed probably knows other people in that field in that industry, in that market.
 
 They very likely could recommend other people for you to talk to.
 
-If they give you a list of other people, **write the names of those people down**.
+If they give you a list of other people, **write the names of those people down** (and any other information interviewee provides you).
 
 And then ask:
 
-> Could you introduce me to them?
+> **Could you introduce me to them?**
 
 It is usually much easier to get someone to talk to you, if someone they know introduces you to them.
