@@ -142,6 +142,10 @@ Questions like these — open-ended questions — are designed to get the person
 Here is a summary of what you need to do and _not_ do in **phase 1**:
 
 * ask open-ended questions
+  * _“Tell me about ‘X’.”_
+  * _“Tell is ‘X’ like?”_
+  * _“What do you think about ‘X’.”_
+  * etc
 * do _not_ ask direct questions
 * if you think of any direct questions (during phase 1) write them down (and ask them in phase 2)
 * take notes
