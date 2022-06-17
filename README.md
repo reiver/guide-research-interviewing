@@ -25,7 +25,7 @@ There are 6 phases when I _inteview_ someone for _research_:
 
 ## Phase 1
 
-Unknown-Unknowns.
+**Unknown-Unknowns.**
 
 ### Example of Known-Unknowns
 
@@ -117,7 +117,7 @@ Questions like these — open-ended questions — are designed to get the person
 
 ## Phase 2
 
-Known-Unknows.
+**Known-Unknows.**
 
 ask specific questions
 
