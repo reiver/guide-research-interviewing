@@ -250,10 +250,11 @@ Etc.
 
 So they don't answer honestly.
 
-But you a honest need answer!
+But you need a honest answer!
+You need to know what they really think.
 
-How do you get the truth in case like this‽ —
-How do you make the comfortable to try to counteract social desirability bias‽ —
+How do you get them to be honest in a case like this‽ —
+How do you make them comfortable to try to counteract a social desirability bias‽ —
 
 Here is a strategy for getting that type of information — 
 
@@ -265,6 +266,38 @@ Ask this question —
 > **What do you think others would say?**
 
 > **What do you think others think?**
+
+### Example
+
+For example, imagine you are trying to understand recuiting, hiring, and careers.
+
+And you ask someone —
+> You have obviously switched jobs (between companies) before.
+> With all the times you did that, what made you decide to switch?
+
+Maybe the person answers:
+> Well, one time it was because my wife and I wanted to move to a new city.
+> 
+> And another time it was because I wanted to reduce the amount of time I spent commuting to and from the office.
+> (I was spending 3 hours a day commuting before, and I reduced it down to one, after I switched jobs.)
+
+There might have been other reasons that caused this person to switch too.
+But this person might not want to say those other reasons.
+
+But if you ask the question:
+> What do you think other people would say I asked them that same question?
+> 
+> What other reasons do you think others might have had switched jobs (between companies)?
+
+Then that same person might feel more free to answer more honestly, since the answer is no longer about them.
+They might then say:
+> Well, some people might switch jobs to get a better or fancier title.
+> 
+> Some people might switch jobs because they are offered more money.
+> 
+> Some people might switch jobs because they didn't like someone (such as a manager above them) at their previous company.
+> 
+> Some people might switch jobs because they want more power.
 
 ## Phase 6
 
