@@ -38,24 +38,43 @@ For example —
 You know I have an age, but you don't know what my age is.
 And thus, it is **known** to you that my age is **unknown** to you.
 That is a **known-unknown** — you **know** that my age has some value, but to you it is **unknown** what my age actually is.
+
 But given this is an **known-unknown**, in a practical sense, you could directly ask me:
 > How old are you?
+
+That is one of the _key-points_ of a **known-unknown** — in a practical sense you _could_ **conceive of** and ask **direct questions** learn that.
+
 
 ### Example of Unknown-Unknowns
 
 But there are also **unknown-unknows**.
 
-Unknown-unknowns are things that you couldn't directly ask me a question about it, because you don't even realize you don't know it ⁠— i.e., it is **unknown** to you, that these things are **unknown** to you.
+Unknown-unknowns are things that you couldn't _conceive of_ and then ask me a _direct question_ about it, because you don't even realize you don't know it ⁠— i.e., it is **unknown** to you, that these things are **unknown** to you.
 
-Here is an example of an unknown-unknown:
-> What material was used to create the pigment use in the paint for the ushabti boxes created by Khabekhnet?
+Here is an example of an **unknown-unknown**:
+> What material was used to create the pigment used in the paint for the ushabti boxes created by Khabekhnet?
 
 Until you read that sentence, you may very likely have never seen the word “ushabti”, and likely have no idea what a “ushabti box” is.
 You probably have also never heard of “Khabekhnet”, and have no idea who he is.
 
 Before reading that sentence, “ushabtis”, “ushabti boxes”, and “Khabekhnet” were **unknown-unknowns** to you.
 
-Before reading that sentence, in a practical sense, you wouldn't have been able to even come up with any direct question about “ushabtis”, “ushabti boxes”, and “Khabekhnet”.
+Before reading that sentence, in a practical sense, you wouldn't have been able to even conceive of any direct question about “ushabtis”, “ushabti boxes”, and “Khabekhnet”.
+
+After reading that sentence, you might have the question:
+> What is an “ushabti”?
+But before you read that sentence you wouldn't have known to ask that question.
+Before you read that sentence “ushabti” was an **unknown-unknown** to you.
+
+After reading that sentence, you might have the question:
+> What is an “ushabti box”?
+But before you read that sentence you wouldn't have known to ask that question.
+Before you read that sentence “ushabti” was an **unknown-unknown** to you.
+
+After reading that sentence, you might have the question:
+> Who is “Khabekhnet”?
+But before you read that sentence you wouldn't have known to ask that question.
+Before you read that sentence “ushabti” was an **unknown-unknown** to you.
 
 You will experience this a lot when doing **research interviewing**.
 
@@ -69,10 +88,10 @@ But fear not — **phase 1** is partially intended to help us discover _unknown-
 
 Here is a way you can go about discovering **unknown-unknows** —
 
-1. ask very open-ended questions, so that you can
-2. just get them to start talking; and
-3. let them talk; and
-4. if they stop talking, ask them another open-ended question to get them talking again.
+1. **ask very open-ended questions, so that you can**
+2. **just get the interviewee to start talking**; and
+3. **let the interviewee talk**; and
+4. **if the interviewee stops talking, ask them another open-ended question to get them talking again**.
 
 What is an **open-ended question** you might be asking. Good question.
 
@@ -86,15 +105,16 @@ And after saying that will likely _not_ say anything else.
 The question:
 > How old are you?
 … is a **direct** question.
-Don't ask these types of questions during **phase 1**.
-(Wait until **phase 2** before asking _direct_ questions.)
 
-You want them to start talking.
-You want them to start talking about things you don't know you need to ask questions about.
+Don't ask that type of questions during **phase 1**.
+Leave that type of question (i.e., _direct questions_) for **phase 2**.
+
+You want the interviewee to start talking.
+You want the interviewee to start talking about things you don't know you need to ask questions about.
 
 Here is an example of an open-ended question:
 
-* Tell me about “X”.
+* **Tell me about “X”.**
   * Tell me about _your experience as a YouTuber_.
   * Tell me about _what it is like to work at a bank_.
   * Tell me about _underwriting_.
@@ -105,7 +125,7 @@ Here is an example of an open-ended question:
 
 Here is an example of another open-ended question?
 
-* What is “X” like?
+* **What is “X” like?**
   * What is _being a YouTuber_ like?
   * What is _working at a bank_ like?
   * What is _underwriting_ like?
@@ -114,6 +134,8 @@ Here is an example of another open-ended question?
 (Again, what you replace “X” with will depend on who you are talking to, and what industry or market you are researching.)
 
 Questions like these — open-ended questions — are designed to get the person to talk, so that you can discover **unknown-unknowns**.
+
+**What other open-ended question could you ask the interviewee?**
 
 ## Phase 2
 
