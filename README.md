@@ -14,7 +14,7 @@ Whether you take your notes on a paper, or on a laptop, or on a mobie phone — 
 
 ---
 
-There are 6 phases to inteviewing:
+There are 6 phases when I _inteview_ someone for _research_:
 
 * [phase 1: unknown-unknowns (just get them to talk)](#phase-1)
 * [phase 2: known-unknowns (ask specific questions)](#phase-2)
@@ -34,10 +34,11 @@ There are known-unknowns, and there are **unknown-unknowns**.
 Here is an example of a known-unknown:
 > How old are you?
 
-You know I have an age.
-And it is **known** to you that my age is **unknown** to you.
+For example —
+You know I have an age, but you don't know what my age is.
+And thus, it is **known** to you that my age is **unknown** to you.
 That is a **known-unknown** — you **know** that my age has some value, but to you it is **unknown** what my age actually is.
-But given this is an **known-unknown**, you could directly ask me:
+But given this is an **known-unknown**, in a practical sense, you could directly ask me:
 > How old are you?
 
 ### Example of Unknown-Unknowns
@@ -54,7 +55,7 @@ You probably have also never heard of “Khabekhnet”, and have no idea who he 
 
 Before reading that sentence, “ushabtis”, “ushabti boxes”, and “Khabekhnet” were **unknown-unknowns** to you.
 
-Before reading that question, you wouldn't have been able to even come up with a direct question about “ushabtis”, “ushabti boxes”, and “Khabekhnet”.
+Before reading that sentence, in a practical sense, you wouldn't have been able to even come up with any direct question about “ushabtis”, “ushabti boxes”, and “Khabekhnet”.
 
 You will experience this a lot when doing **research interviewing**.
 
@@ -64,11 +65,13 @@ And it doesn't matter whether that **research interviewing** is for product-rese
 
 **You need to be able to discover _unknown-unknows_!**
 
+But fear not — **phase 1** is partially intended to help us discover _unknown-unknowns_.
+
 Here is a way you can go about discovering **unknown-unknows** —
 
 1. ask very open-ended questions, so that you can
-2. just get them to start talking;
-3. and let them talk;
+2. just get them to start talking; and
+3. let them talk; and
 4. if they stop talking, ask them another open-ended question to get them talking again.
 
 What is an **open-ended question** you might be asking. Good question.
@@ -78,7 +81,13 @@ Here is an example of a question that is NOT an open-ended question:
 
 They will reply with something like:
 > 35
-And likely _not_ say anything else.
+And after saying that will likely _not_ say anything else.
+
+The question:
+> How old are you?
+… is a **direct** question.
+Don't ask these types of questions during **phase 1**.
+(Wait until **phase 2** before asking _direct_ questions.)
 
 You want them to start talking.
 You want them to start talking about things you don't know you need to ask questions about.
@@ -110,8 +119,9 @@ Questions like these — open-ended questions — are designed to get the person
 
 Known-Unknows.
 
-
 ask specific questions
+
+TODO
 
 ## Phase 3
 
@@ -154,21 +164,26 @@ If you were talking the VP of Innovation at a bank, and you were talking about i
 Sometimes interviewees don't tell you everything, or aren't completely honest.
 
 Maybe answering a question honestly would embarrass them, or make them feel shame, or make them feel guilt.
-Maybe answering a question honestly would violate a local taboo.
+Or maybe answering a question honestly would violate a local taboo.
 Etc.
 
-So don't answer honestly.
+So they don't answer honestly.
 
-But you need the truth!
+But you a honest need answer!
 
-How do you get the truth in case like this —
+How do you get the truth in case like this‽ —
+How do you make the comfortable to try to counteract social desirability bias‽ —
 
-Here is a strategy for getting that type of information — ask this question —
+Here is a strategy for getting that type of information — 
+
+**Don't make the question about them.**
+**Make the question about others.**
+
+Ask this question —
 
 > **What do you think others would say?**
 
 > **What do you think others think?**
-
 
 ## Phase 5
 
