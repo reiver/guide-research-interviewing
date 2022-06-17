@@ -109,6 +109,25 @@ ask specific questions
 
 ## Phase 3
 
+> **How could things go wrong?**
+
+In **phase 3** that is the question you should ask.
+
+For example —
+
+If you were talking to a _talent agent_ who gets sponsorship deals for the successful YouTubers, you might ask —
+
+> **How could things go wrong?**
+> 
+> ... with the influncer?
+> 
+> ... with advertisers?
+> 
+> ... with anything and any of it?
+
+(Some of how you phrase that is going to depend on the exact field, industry, and market you are focusing on.)
+
+
 ## Phase 4
 
 Sometimes interviewees don't tell you everything, or aren't completely honest.
