@@ -23,6 +23,7 @@ There are 7 phases when I _inteview_ someone for _research_:
 * [phase 5: what do you think others would say or think?](#phase-5)
 * [phase 6: what question didn't I ask you, but should have?](#phase-6)
 * [phase 7: who else should I talk to?](#phase-7)
+* [phase 8: write even more notes](#phase-8)
 
 ## Phase 1
 
@@ -324,3 +325,20 @@ then that is:
 ```
 
 Before you talk to all these people, yoy will very likely have learned a lot!
+
+## Phase 8
+
+While the interview is going on, i am **writing notes**.
+
+I am writing as many notes as I can.
+
+But often (especially when I'm taking notes on my phone) I cannot record everything.
+
+After the meeting is done, the interview is still fresh on my mind.
+
+At this point (in **phase 8**), after the interview is done, I then try to:
+
+* write down notes anything I missed, and then
+* try to write a more organized & accessible document based on all those notes.
+
+**Do this while the interview is fresh on your mind.**
