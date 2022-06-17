@@ -303,7 +303,15 @@ At the very end of your interview, after you have asked _all_ those _questions_,
 This person you just interviewed probably knows other people in that field in that industry, in that market.
 They very likely could recommend other people for you to talk to.
 
-If they give you a list of other people, **write the names of those people down** (and any other information interviewee provides you).
+Ask them that question:
+
+> **Who else should I talk to?**
+
+> **Who else would you recommend?**
+
+> **Are there a few other people you would recommend I talk to?**
+
+If the interviewee gives you a list of other people, **write the names of those people down** (as well as any other information interviewee provides you).
 
 And _after_ than, _after_ they have given you that list of people, then ask:
 
@@ -311,20 +319,21 @@ And _after_ than, _after_ they have given you that list of people, then ask:
 
 It is usually much easier to get someone to talk to you, if someone they know introduces you to them.
 
-In addition to that, through this strategy, you can find a lot of (relevant) people to interview this way.
+In addition to that, through this strategy, you can find _a lot_ of (relevant) people to interview this way.
+Just do the math —
 
 For example, if you start with 1 person,
 and that person introduces you to 3 people,
 and each of those individuals introduced you to 3 more people,
 and each of those individuals introduced you to 3 more people —
-then that is:
+then then the number of people you will end up interviewing is:
 ```
 1 + 1×3 + ((1×3)×3) + (((1×3)×3)×3) =
 1 + 3   + 9         + 27            =
 40
 ```
 
-Before you talk to all these people, yoy will very likely have learned a lot!
+Even before you finish talking to all these people, you will very likely have learned a lot!
 
 ## Phase 8
 
