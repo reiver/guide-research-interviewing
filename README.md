@@ -114,3 +114,23 @@ ask specific questions
 ## Phase 5
 
 ## Phase 6
+
+At the very end of your interview, after you have asked _all_ those _questions_, and taken _lots and lots_ of _notes_, you need to ask another question —
+
+> Who else should I talk to?
+
+> Who else would you recommend?
+
+> Are there a few other people you would recommend I talk to?
+
+This person you just interviewed probably knows other people in that field in that industry, in that market.
+
+They very likely could recommend other people for you to talk to.
+
+If they give you a list of other people, **write the names of those people down**.
+
+And then ask:
+
+> Could you introduce me to them?
+
+It is usually much easier to get someone to talk to you, if someone they know introduces you to them.
