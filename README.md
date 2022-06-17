@@ -14,14 +14,15 @@ Whether you take your notes on a paper, or on a laptop, or on a mobie phone — 
 
 ---
 
-There are 6 phases when I _inteview_ someone for _research_:
+There are 7 phases when I _inteview_ someone for _research_:
 
 * [phase 1: unknown-unknowns (just get them to talk)](#phase-1)
-* [phase 2: known-unknowns (ask specific questions)](#phase-2)
-* [phase 3: how could things go wrong?](#phase-3)
-* [phase 4: what do you think others would say or think?](#phase-4)
-* [phase 5: what question didn't I ask you, but should have?](#phase-5)
-* [phase 6: who else should I talk to?](#phase-6)
+* [phase 2: follow-ups](#phase-2)
+* [phase 3: known-unknowns (ask specific questions)](#phase-3)
+* [phase 4: how could things go wrong?](#phase-4)
+* [phase 5: what do you think others would say or think?](#phase-5)
+* [phase 6: what question didn't I ask you, but should have?](#phase-6)
+* [phase 7: who else should I talk to?](#phase-7)
 
 ## Phase 1
 
@@ -107,7 +108,7 @@ The question:
 … is a **direct** question.
 
 Don't ask that type of questions during **phase 1**.
-Leave that type of question (i.e., _direct questions_) for **phase 2**.
+Leave that type of question (i.e., _direct questions_) for **phase 3**.
 
 You want the interviewee to start talking.
 You want the interviewee to start talking about things you don't know you need to ask questions about.
@@ -143,26 +144,63 @@ Here is a summary of what you need to do and _not_ do in **phase 1**:
 
 * ask open-ended questions
   * _“Tell me about ‘X’.”_
-  * _“Tell is ‘X’ like?”_
+  * _“What is ‘X’ like?”_
   * _“What do you think about ‘X’.”_
   * etc
 * do _not_ ask direct questions
-* if you think of any direct questions (during phase 1) write them down (and ask them in phase 2)
+* if you think of any direct questions (during phase 1) write them down (and ask them in phase 3)
 * take notes
-* Take Notes!
-* TAKE NOTES!!!
-* you are wasting your time if you do not take notes, so — TAKE NOTES!!!!!
-
+  * Take Notes!
+  * TAKE NOTES!!!
+  * you are wasting your time if you do not take notes, so — TAKE NOTES!!!!!
+* if the interviewee mentions something that you want to know more about, make notes of that, and then ask about it in **phase 2**.
 
 ## Phase 2
 
+**Follow-Ups**
+
+While you were in **phase 1**, asking the interviewee open-ended questions, you probably heard him or her talk about things that you wanted to know more about.
+
+For example, maybe you were interviewing someone in the real-estate industry, and are in **phase 1** where you a just trying to get them to talk,
+and you hear the interviewee say _“quantitative surveyor”_,
+but have never heard that label before, and have no idea what it means or is.
+
+Don't ask about the interviewee about that (_“quantitative surveyors”_) yet if they are still talking.
+Let them talk.
+Don't interrupt them.
+Don't make them lose their train of thought.
+
+**Make a note that you to talk more about that topic** (for example, _“quantitative surveyors”_, or whatever).
+
+And then talk about that in **phase 2**.
+
+But when you get to **phase 2** you want to start with open-ended questions, and only later get into more direct questions.
+
+For example, your initial questions should be:
+
+* _“Tell me about ‘X’.”_
+  * _“Tell me about “quantitative surveyors”.”_
+
+* _“What do you think about ‘X’.”_
+  * _“What do you think about “quantitative surveyors”.”_
+
+* _“What do other people think or say about ‘X’.”_
+  * _“What do other people think or say about “quantitative surveyors”.”_
+
+* Etc.
+
+## Phase 3
+
 **Known-Unknows.**
+
+Before you did the interview, you probably have some direct questions in mind — now, in **phase 2**, is the time to ask them.
+
 
 ask specific questions
 
 TODO
 
-## Phase 3
+## Phase 4
 
 > **How could things go wrong?**
 
@@ -198,7 +236,7 @@ If you were talking the VP of Innovation at a bank, and you were talking about i
 > 
 > ... with anything and any of it?
 
-## Phase 4
+## Phase 5
 
 Sometimes interviewees don't tell you everything, or aren't completely honest.
 
@@ -224,7 +262,7 @@ Ask this question —
 
 > **What do you think others think?**
 
-## Phase 5
+## Phase 6
 
 Once you are done all that, there is another question for you to ask them —
 
@@ -248,7 +286,7 @@ For example, if you ask that once, and then give you an answer, you can then ask
 
 You can keep repeating that until they have no more questions.
 
-## Phase 6
+## Phase 7
 
 At the very end of your interview, after you have asked _all_ those _questions_, and taken _lots and lots_ of _notes_, you need to ask another question —
 
