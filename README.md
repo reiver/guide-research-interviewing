@@ -165,19 +165,18 @@ At the very end of your interview, after you have asked _all_ those _questions_,
 > **Are there a few other people you would recommend I talk to?**
 
 This person you just interviewed probably knows other people in that field in that industry, in that market.
-
 They very likely could recommend other people for you to talk to.
 
 If they give you a list of other people, **write the names of those people down** (and any other information interviewee provides you).
 
-And then ask:
+And _after_ than, _after_ they have given you that list of people, then ask:
 
 > **Could you introduce me to them?**
 
 It is usually much easier to get someone to talk to you, if someone they know introduces you to them.
 
+In addition to that, through this strategy, you can find a lot of (relevant) people to interview this way.
 
-Plus, you can find a lot of (relevant) people to interview really quick this way.
 For example, if you start with 1 person,
 and that person introduces you to 3 people,
 and each of those individuals introduced you to 3 more people,
@@ -189,4 +188,4 @@ then that is:
 40
 ```
 
-And even before you talk to all these people, you have probably learned a lot!
+Before you talk to all these people, yoy will very likely have learned a lot!
