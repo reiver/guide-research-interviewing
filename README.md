@@ -125,8 +125,23 @@ If you were talking to a _talent agent_ who gets sponsorship deals for the succe
 > 
 > ... with anything and any of it?
 
-(Some of how you phrase that is going to depend on the exact field, industry, and market you are focusing on.)
+Some of how you phrase that is going to depend on the exact field, industry, and market you are focusing on.
 
+But you will discover how you should phrase that in **phase 1** & **phase 2**.
+
+If you were talking the VP of Innovation at a bank, and you were talking about integrations, you might ask —
+
+> **How could things go wrong?**
+> 
+> ... with the integration?
+> 
+> ... with any of the partners?
+> 
+> ... with an active account?
+> 
+> ... etc?
+> 
+> ... with anything and any of it?
 
 ## Phase 4
 
